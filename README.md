@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Speedflyer689
 - 👀 I’m interested in C C++
-- 🌱 I’m currently pursuing pursuing degree with my major in CS
+- 🌱 I’m currently pursuing my degree with major in CS
 - 💞️ I’m looking to collaborate on C C++ projects or any opensource projects
 - 📫 How to reach me
 email: speedflyer689@gmail.com
